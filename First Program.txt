@@ -1,0 +1,14 @@
+First Program From Farasat Ali
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("Hello EveryOne!\n");
+    return 0;
+}
+
+
+
+imran.cs.uob@gmail.com
